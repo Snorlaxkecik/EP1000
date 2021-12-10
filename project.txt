@@ -1,0 +1,24 @@
+1. change background color to #0D1A00
+2. change font to Lucida Sans Unicode", "Lucida Grande", sans-serif;
+3. Change html link in about.html page "Home" to "~/website.html" 
+4. Change navigation "contact" to "Past Projects" & add hyperlink to file:///C:/Users/serih/OneDrive/Desktop/myWebsite/
+5. Create folder called "finalproject" 
+6. Add navigation "finalproject" folder 
+7. Create navigation to changes to project page & tools used
+8. Create navigation to project.txt
+
+
+
+Tools used
+1) https://resizeimage.net/#google_vignette, reason rezize image
+2)https://www.tablesgenerator.com/html_tables#, reason create table for html
+3)https://htmlcodeeditor.com/, reasons to preview code in real time
+4) https://htmlcheatsheet.com/css/ reason, Change font & background color
+5)CorelDraw
+6)Notepad
+7)Fusion 360
+8)CURA settings
+9)command output
+10)Git bash
+11)Autodesk 360
+12) JW Sample site EP1000 example
